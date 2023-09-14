@@ -1,5 +1,5 @@
 # LamppIt-Backend - Kevin Mendes
-Projeto desenvolvido como parte do processo para vaga de Desenvolvedor Jr. da LamppIt.
+Projeto desenvolvido como parte do processo para vaga de Desenvolvedor FullStack Jr. da LamppIt.
 
 ## Backend Java
 Este projeto é parte do teste técnico para a vaga de Desenvolvedor FullStack Jr na empresa LamppIt. Ele consiste em um backend desenvolvido em Java com Spring Boot e Spring Data JPA, fornecendo endpoints RESTful para operações CRUD na classe Cliente. O banco de dados utilizado é o MySQL, e o controle de migração é gerenciado pelo Flyway.

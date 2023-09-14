@@ -25,7 +25,7 @@ Este projeto é parte do teste técnico para a vaga de Desenvolvedor FullStack J
 |----------|--------------|--------------|
 |`http://localhost:8080/lamppit/salvar-cliente`                                 | POST | Salva o cliente no banco de dados |
 |`http://localhost:8080/lamppit/listar-todos`                                 | GET | Lista todos os cadastros de clientes presentes no banco de dados |
-|`http://localhost:8080/lamppit//buscar-por-id`                             | PUT | Edição de cliente baseado no Id salvo no banco de dados |
+|`http://localhost:8080/lamppit/buscar-por-id`                             | PUT | Edição de cliente baseado no Id salvo no banco de dados |
 |`http://localhost:8080/lamppit/excluir-por-id`                               | DELETE | Deleta cadastro do cliente |
 
 
